@@ -1,0 +1,15 @@
+.Search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    input,button{
+        font-size: 2rem;
+        padding: 0.25rem;
+        border:solid #5C85F7;
+    }
+    button{
+        background-color: #5C85F7;
+        cursor: pointer;
+    }
+}
